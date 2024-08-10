@@ -25,7 +25,7 @@
 I am a Data Scientist, Machine Learning Engineer, Software Engineer, and Quantitative Analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the United Kingdom.
 - :telescope: I’m working as a Data Scientist/Analyst, and contributing to research in blockchain and cryptocurrencies.
 
-- :seedling: Open to opportunities in the finance domain.
+- :seedling: Open to data-related opportunities in the finance domain.
 
 - :zap: In my free time, I read tech articles.
 
