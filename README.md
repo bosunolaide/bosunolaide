@@ -1,80 +1,135 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/abiola-olatunbosun/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://x.com/bosunolaide">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=bosunolaide&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
-    I'm Abiola.
-  </h1>
-</div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+<h1>
+👋 Hi, I'm Abiola Olatunbosun
+</h1>
+
+<h3>
+Data Analytics Engineer • Applied ML Engineer • FinTech Systems Builder
+</h3>
+
+<p>
+🇬🇧 United Kingdom • MSc IT (Business Intelligence – Distinction)  
+Founder @ ByteForge Dynamics Ltd
+</p>
+
+<a href="https://www.linkedin.com/in/abiola-olatunbosun/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://x.com/bosunolaide">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=bosunolaide&style=flat-square&color=blue"/>
+
 </div>
 
 ---
 
-### :man_technologist: About Me :
-I am a Data Scientist, Machine Learning Engineer, Software Engineer, and Quantitative Analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the United Kingdom.
-- :telescope: I’m working as a Data Scientist/Analyst, and contributing to research in blockchain and cryptocurrencies.
+## 🧠 What I Actually Do
 
-- :seedling: Open to data-related opportunities in the finance domain.
+I design **end-to-end data & ML systems** — from raw data ingestion → analytics warehouses → ML pipelines → APIs → production deployment.
 
-- :zap: In my free time, I read tech articles.
+My work sits at the intersection of:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abiola-olatunbosun/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anacona" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+**📊 Analytics Engineering**  
+**🤖 Applied Machine Learning**  
+**⚙️ Backend Systems**  
+**💸 Financial & Blockchain Data**
 
 ---
 
-### :fire: My Stats :
+## 🔥 Core Focus Areas
+
+- **Data Analytics Engineering**
+  - ETL / ELT pipelines
+  - Data warehousing (MSSQL / BI stacks)
+  - Feature engineering
+  - KPI layers & analytics models
+  - Decision-ready datasets
+
+- **Applied Machine Learning**
+  - Fraud detection
+  - Recommendation systems
+  - Forecasting
+  - NLP pipelines
+  - Model deployment & monitoring
+
+- **MLOps & Cloud**
+  - Dockerised ML services
+  - CI/CD for models
+  - AWS ML stacks
+  - Experiment tracking
+  - Batch + real-time inference
+
+- **FinTech / Blockchain Analytics**
+  - Ethereum transaction analysis
+  - Cost-efficiency modelling
+  - Cross-border payments research
+  - Crypto market analytics
+
+---
+
+## 🏗️ What I Build
+
+✔️ Production-ready Django & FastAPI systems  
+✔️ Analytics dashboards & BI layers  
+✔️ SaaS platforms  
+✔️ AI-powered operations tools  
+✔️ Data science projects that scale  
+✔️ Research-driven FinTech platforms  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Python • SQL • R • PHP • JavaScript • Java  
+
+### Backend / APIs
+Django • FastAPI • Flask • Laravel  
+
+### Data
+PostgreSQL • MySQL • MSSQL • Pandas • Spark • dbt  
+
+### ML
+scikit-learn • PyTorch • TensorFlow • XGBoost  
+
+### MLOps / Infra
+Docker • AWS • GitHub Actions • MLflow • Airflow  
+
+### BI / Viz
+Power BI • Streamlit • Matplotlib • Seaborn  
+
+---
+
+## 📌 Current Goals
+
+- Building **Execution Intelligence SaaS** platforms
+- Publishing blockchain analytics research
+- Shipping FinTech ML products
+- Scaling ByteForge Dynamics Ltd
+- Landing ML / Data Engineering roles with sponsorship
+
+---
+
+## 📊 GitHub Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bosunolaide&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosunolaide&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<!--
-## Hi there 👋
-**bosunolaide/bosunolaide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🤝 Let’s Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're hiring for:
+
+- Data Analytics Engineer
+- Machine Learning Engineer
+- FinTech Data Scientist
+- MLOps Engineer
+
+📬 Reach me on LinkedIn — let’s talk.
