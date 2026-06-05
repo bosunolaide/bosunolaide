@@ -1,135 +1,255 @@
+# 👋 Hi, I'm Abiola Olatunbosun
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+## AI Systems Engineer | Azure AI Engineer | Intelligent Automation Architect
 
-<h1>
-👋 Hi, I'm Abiola Olatunbosun
-</h1>
+Building production-grade AI systems, enterprise automation platforms, and cloud-native data solutions that solve real operational problems.
 
-<h3>
-Data Analytics Engineer • Applied ML Engineer • FinTech Systems Builder
-</h3>
+🇬🇧 United Kingdom | MSc Information Technology (Business Intelligence) – Distinction
 
-<p>
-🇬🇧 United Kingdom • MSc IT (Business Intelligence – Distinction)  
-Founder @ ByteForge Dynamics Ltd
-</p>
-
-<a href="https://www.linkedin.com/in/abiola-olatunbosun/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://x.com/bosunolaide">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=bosunolaide&style=flat-square&color=blue"/>
+Founder, ByteForge Dynamics Ltd
 
 </div>
 
 ---
 
-## 🧠 What I Actually Do
+# 🚀 Engineering Intelligent Systems That Deliver Real Outcomes
 
-I design **end-to-end data & ML systems** — from raw data ingestion → analytics warehouses → ML pipelines → APIs → production deployment.
+I specialize in designing and deploying AI-powered systems that automate business operations, streamline workflows, and transform complex processes into scalable digital platforms.
 
 My work sits at the intersection of:
 
-**📊 Analytics Engineering**  
-**🤖 Applied Machine Learning**  
-**⚙️ Backend Systems**  
-**💸 Financial & Blockchain Data**
+- Artificial Intelligence
+- Azure Cloud Engineering
+- Data Engineering
+- Intelligent Automation
+- Enterprise Software Development
+
+Rather than building AI demos, I focus on delivering production-ready systems that create measurable operational impact.
 
 ---
 
-## 🔥 Core Focus Areas
+# 🔥 Current Engineering Focus
 
-- **Data Analytics Engineering**
-  - ETL / ELT pipelines
-  - Data warehousing (MSSQL / BI stacks)
-  - Feature engineering
-  - KPI layers & analytics models
-  - Decision-ready datasets
+## 🤖 AI Systems Engineering
 
-- **Applied Machine Learning**
-  - Fraud detection
-  - Recommendation systems
-  - Forecasting
-  - NLP pipelines
-  - Model deployment & monitoring
+Designing end-to-end AI systems that combine:
 
-- **MLOps & Cloud**
-  - Dockerised ML services
-  - CI/CD for models
-  - AWS ML stacks
-  - Experiment tracking
-  - Batch + real-time inference
-
-- **FinTech / Blockchain Analytics**
-  - Ethereum transaction analysis
-  - Cost-efficiency modelling
-  - Cross-border payments research
-  - Crypto market analytics
+- Azure OpenAI
+- LLM Applications
+- Agentic Workflows
+- AI Copilots
+- Intelligent Document Processing
+- Human-in-the-Loop Automation
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
-## 🏗️ What I Build
+## ☁️ Azure AI & Data Engineering
 
-✔️ Production-ready Django & FastAPI systems  
-✔️ Analytics dashboards & BI layers  
-✔️ SaaS platforms  
-✔️ AI-powered operations tools  
-✔️ Data science projects that scale  
-✔️ Research-driven FinTech platforms  
+Building cloud-native solutions using:
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-Python • SQL • R • PHP • JavaScript • Java  
-
-### Backend / APIs
-Django • FastAPI • Flask • Laravel  
-
-### Data
-PostgreSQL • MySQL • MSSQL • Pandas • Spark • dbt  
-
-### ML
-scikit-learn • PyTorch • TensorFlow • XGBoost  
-
-### MLOps / Infra
-Docker • AWS • GitHub Actions • MLflow • Airflow  
-
-### BI / Viz
-Power BI • Streamlit • Matplotlib • Seaborn  
+- Azure OpenAI Service
+- Azure Document Intelligence
+- Azure Blob Storage
+- Azure App Service
+- Azure AI Foundry
+- Azure Data Platforms
+- Operational Analytics Pipelines
 
 ---
 
-## 📌 Current Goals
+## ⚙️ Intelligent Automation
 
-- Building **Execution Intelligence SaaS** platforms
-- Publishing blockchain analytics research
-- Shipping FinTech ML products
-- Scaling ByteForge Dynamics Ltd
-- Landing ML / Data Engineering roles with sponsorship
+Automating business processes through:
 
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bosunolaide&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosunolaide&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- Workflow Orchestration
+- Process Automation
+- Playwright Automation
+- Enterprise Integrations
+- Event-Driven Systems
+- Operational Intelligence Platforms
 
 ---
 
-## 🤝 Let’s Build
+# 🏆 Flagship Projects
 
-If you're hiring for:
+## 🩺 MedSure
 
-- Data Analytics Engineer
-- Machine Learning Engineer
-- FinTech Data Scientist
-- MLOps Engineer
+### AI-Powered Healthcare Workflow Automation
 
-📬 Reach me on LinkedIn — let’s talk.
+MedSure automates medication ordering workflows for healthcare providers, reducing manual administration and improving operational efficiency.
+
+### Key Capabilities
+
+- Medication ordering automation
+- Provider connector architecture
+- Branch-aware operations
+- Approval workflows
+- Audit logging
+- Automated submission pipelines
+- Healthcare process automation
+
+### Technology
+
+Python • Django • PostgreSQL • Playwright • Azure
+
+---
+
+## 🏥 CareSphere
+
+### Enterprise Healthcare Operations Platform
+
+A multi-module healthcare ecosystem designed to modernize care operations through AI, automation, analytics, and operational intelligence.
+
+### Core Modules
+
+- MedSure
+- CareComms
+- CareMind
+- StaffSphere
+- TalentSphere
+- InsightSphere
+
+### Focus Areas
+
+- Healthcare AI
+- Workforce Operations
+- Compliance Analytics
+- Intelligent Communications
+- Operational Automation
+
+---
+
+## 🎯 ApplyPilot AI
+
+### Azure-Powered Job Application Copilot
+
+An AI-driven platform that automates job discovery, application preparation, and submission workflows while keeping users in control of final decisions.
+
+### Key Capabilities
+
+- Intelligent job discovery
+- Semantic job matching
+- CV parsing and analysis
+- AI-generated tailoring
+- Cover letter generation
+- Automated application workflows
+- Human review checkpoints
+
+### Azure Stack
+
+- Azure OpenAI
+- Azure Document Intelligence
+- Azure Blob Storage
+- Azure App Services
+
+### Engineering Stack
+
+FastAPI • Python • Playwright • Azure
+
+---
+
+## 📈 Production ML & MLOps Platform
+
+Designed and deployed a machine learning platform supporting:
+
+- Model training
+- Experiment tracking
+- CI/CD pipelines
+- API deployment
+- Monitoring
+- Cloud-native infrastructure
+
+### Stack
+
+Python • FastAPI • Docker • AWS • MLflow
+
+---
+
+# 🛠️ Technology Ecosystem
+
+## Programming
+
+Python | SQL | R | JavaScript | Java
+
+## AI & Machine Learning
+
+Azure OpenAI | Scikit-Learn | TensorFlow | PyTorch | XGBoost
+
+## Data Engineering
+
+PostgreSQL | MSSQL | MySQL | Pandas | Spark
+
+## Cloud Platforms
+
+Microsoft Azure | AWS
+
+## Backend Engineering
+
+Django | FastAPI | REST APIs | Microservices
+
+## Automation
+
+Playwright | Celery | Redis
+
+## Analytics & BI
+
+Power BI | Data Warehousing | Business Intelligence
+
+---
+
+# 📚 Research Background
+
+### MSc Dissertation
+
+Machine Learning-Based Analysis for Secure and Efficient Cross-Border Funds Transfer Using Cryptocurrencies
+
+Research Areas:
+
+- Blockchain Analytics
+- Machine Learning
+- Financial Systems
+- Predictive Modelling
+- Large-Scale Data Analysis
+
+Dataset:
+
+100,000+ Ethereum blockchain transactions analyzed using machine learning techniques.
+
+---
+
+# 🎯 Career Interests
+
+I am particularly interested in opportunities involving:
+
+- AI Systems Engineering
+- Azure AI Engineering
+- Data Engineering
+- Intelligent Automation
+- Applied Machine Learning
+- Enterprise AI Platforms
+- Healthcare Technology
+- Operational Intelligence Systems
+
+---
+
+# 🌍 Mission
+
+My goal is to build intelligent systems that automate repetitive work, augment human decision-making, and create measurable business value through AI and cloud technologies.
+
+---
+
+# 🤝 Let's Connect
+
+Open to discussions around:
+
+- AI Engineering
+- Azure AI Solutions
+- Data Engineering
+- Intelligent Automation
+- Healthcare Technology
+- Enterprise Platform Development
+
+Always interested in collaborating on impactful AI and automation initiatives.
