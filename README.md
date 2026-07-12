@@ -97,31 +97,6 @@ Python • Django • PostgreSQL • Playwright • Azure
 
 ---
 
-## 🏥 CareSphere
-
-### Enterprise Healthcare Operations Platform
-
-A multi-module healthcare ecosystem designed to modernize care operations through AI, automation, analytics, and operational intelligence.
-
-### Core Modules
-
-- MedSure
-- CareComms
-- CareMind
-- StaffSphere
-- TalentSphere
-- InsightSphere
-
-### Focus Areas
-
-- Healthcare AI
-- Workforce Operations
-- Compliance Analytics
-- Intelligent Communications
-- Operational Automation
-
----
-
 ## 🎯 ApplyPilot AI
 
 ### Azure-Powered Job Application Copilot
